@@ -1,4 +1,4 @@
-'use strickt';
+'use strict';
 
 // Виконуй це завдання у файлі task-3.js
 
